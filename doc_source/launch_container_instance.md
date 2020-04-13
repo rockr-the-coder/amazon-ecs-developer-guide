@@ -12,7 +12,7 @@ You can launch an Amazon ECS container instance using the AWS Management Console
 
 1. On the **Choose an Amazon Machine Image \(AMI\)** page, complete the following steps:
 
-   1. Choose **Community AMIs**\.
+   1. Choose **AWS Marketplace**\.
 
    1. Choose an AMI for your container instance\. You can choose an Amazon ECS\-optimized AMI, or another operating system, such as CoreOS or Ubuntu\. If you do not choose an Amazon ECS\-optimized AMI, you must follow the procedures in [Installing the Amazon ECS Container Agent](ecs-agent-install.md)\.
 **Note**  
